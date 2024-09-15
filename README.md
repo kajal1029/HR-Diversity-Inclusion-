@@ -1,5 +1,5 @@
 # HR Diversity & Inclusion Analysis
-![hr1](https://github.com/user-attachments/assets/8cc88826-be20-4268-b5fe-93297f58f996)
+
 
 I joined a virtual internship of PwC through forage, where my role was of Power BI Analyst. This is the 3rd BI task from the internship, objective was to analyse the trends of Hires, Resigns, Promotions & Performance in the company.
 My first approach was to check the data & perform cleaning for better results & started my analysis on Power BI Desktop.
